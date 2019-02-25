@@ -1,1 +1,6 @@
-s
+body {  
+  background-image: url("/bgnew.jpg");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+
+}
